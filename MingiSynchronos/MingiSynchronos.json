@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/MingiSynchronos/client/main/MingiSynchronos/images/logo.png",
+  "IconUrl": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/MingiSynchronos/images/icon.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
