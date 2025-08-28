@@ -2,19 +2,19 @@
   "Author": "Ghosy",
   "Name": "Mingi Synchronos",
   "InternalName": "MingiSynchronos",
-  "AssemblyVersion": "0.8.35.0",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/MingiSynchronos/client",
+  "RepoUrl": "https://github.com/ghosy27/Mingi-Synchronos-client",
   "Tags": [
     "customization"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/MingiSynchronos/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-client/main/MingiSynchronos/images/icon.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
