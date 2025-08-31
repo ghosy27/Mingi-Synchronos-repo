@@ -3,7 +3,7 @@
         "Author": "Ghosy",
         "Name": "Mingi Synchronos",
         "InternalName": "MingiSynchronos",
-        "AssemblyVersion": "1.0.1",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ghosy27/Mingi-Synchronos-client",
