@@ -17,8 +17,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/latest/MingiSynchronos.zip",
-        "DownloadLinkTesting": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/latest/MingiSynchronos.zip",
-        "DownloadLinkUpdate": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/latest/MingiSynchronos.zip"
+        "DownloadLinkInstall": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.2/MingiSynchronos.zip",
+        "DownloadLinkTesting": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.2/MingiSynchronos.zip",
+        "DownloadLinkUpdate": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.2/MingiSynchronos.zip"
       }
 ]
